@@ -14,26 +14,6 @@ This project demonstrates an **end-to-end data pipeline** for analyzing Amazon P
 
 ---
 
-## 📁 Project Structure
-amazonPrimeDataset/
-│
-├── data/ # Sample raw dataset (CSV format)
-│ └── amazon_prime_titles.csv
-│
-├── notebooks/ # Databricks transformation notebooks
-│ └── clean_amazon_data.py
-│
-├── pipeline/ # ADF pipeline screenshots or JSON exports
-│ └── amazon_adf_pipeline.json
-│
-├── dashboard/ # Power BI .pbix file or screenshots
-│ ├── amazon_prime_dashboard.pbix
-│ └── dashboard_preview.png
-│
-├── README.md # Project documentation (this file)
-
----
-
 ## 📚 Dataset Source
 
 - **Source**: [Kaggle – Amazon Prime Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
